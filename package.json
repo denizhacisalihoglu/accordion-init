@@ -1,0 +1,26 @@
+{
+  "name": "accordion-init",
+  "version": "1.0.1",
+  "description": "Pure Javascript Accordion Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizhacisalihoglu/accordion-init.git"
+  },
+  "keywords": [
+    "accordion",
+    "accordion",
+    "javascript",
+    "accordionjs",
+    "panels"
+  ],
+  "author": "Deniz Hacısalihoğlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denizhacisalihoglu/accordion-init/issues"
+  },
+  "homepage": "https://github.com/denizhacisalihoglu/accordion-init#readme"
+}
